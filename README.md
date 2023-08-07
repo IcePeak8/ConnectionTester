@@ -3,7 +3,7 @@
 ### Testing of network connections (TCP-Server, TCP-Socket, UDP-Socket, Serial-port).
 Creation simple scripts for generating messages and automatic sending and parsing.  
 
-此项目是一个简洁的 socket 测试软件，原项目并没有在 windows 上编译，所以本项目提供了 windows 的 exe。
+此项目是一个简洁的 socket 测试软件，原项目并没有在 linux 上编译，所以本项目提供了 ubuntu 编译后的版本。
 
 此项目除了正常的 socket 功能外，还提供了脚本工具，可以方便的进行大量测试。
 
